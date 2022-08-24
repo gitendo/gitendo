@@ -1,8 +1,3 @@
-<h3 align="center">STOP WAR IN 🌻UKRAINE🌻!</h3>
-<p align="center">
-  <img src="https://github.com/gitendo/gitendo/blob/d91a0a18f414a008c908549328c0f9259bffb399/Russia_Terrorist_Country_480p.gif">
-</p>
-<h3 align="center">#FCKPTN</h3>
 <!--
 **gitendo/gitendo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
